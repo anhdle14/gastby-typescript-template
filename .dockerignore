@@ -1,0 +1,9 @@
+.cache/
+node_modules/
+public/
+.vscode/
+.prettierignore
+.prettierrc
+LICENSE
+Dockerfile
+.dockerignore
